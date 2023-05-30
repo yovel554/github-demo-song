@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 HARRY'S PATRONUS
 
    /|       |\
@@ -42,4 +41,4 @@ LILY'S PATRONUS
      ||  \\       |||
      )\   )\      )||
      `"   `"      `""
->>>>>>> lily
+
